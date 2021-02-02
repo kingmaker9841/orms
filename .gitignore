@@ -1,0 +1,11 @@
+\node_modules
+
+\build
+\dist
+\temp
+\logs
+\reports
+\docs
+
+.env
+package-lock.json

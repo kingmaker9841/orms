@@ -1,0 +1,18 @@
+{
+    "TRANSACTION_DATE": "Transaction Date",
+    "RISK_PARTICULAR": "Risk Particular (Details of Error)",
+    "RISK_TRIGER": "Risk Trigger",
+    "OCCURRENCE": "Occurrence",
+    "AMOUNT_TIMING": "Amount/Timingg",
+    "FINANCIAL_IMPACT": "Financial Impact",
+    "NON_FINANCIAL_IMPACT": "Non Financial Impact",
+    "RELATED_ACCOUNT": "Related Account",
+    "RELATED_STAFF": "Related Staff",
+    "TRACECD_DATE": "Traced Date",
+    "RISK_TRACECD_BY": "Risk Traced By",
+    "RECTIFICATION_DATE": "Rectification Date",
+    "REMARKS": "Remarks",
+    "SUBMIT": "Submit",
+    "UPDATE": "Update"
+
+}
